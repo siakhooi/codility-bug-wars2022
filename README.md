@@ -5,7 +5,7 @@
 - Difficulty: Hard
 - Given the locations of cities and the amount of fuel at each of them, compute the maximum number of cities that can be visited.
 - <https://app.codility.com/programmers/challenges/bug_wars2022/>
-- <task-url>
+- <https://app.codility.com/programmers/task/refueling/>
 
 ## Versions
 
